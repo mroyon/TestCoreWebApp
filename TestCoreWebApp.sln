@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCoreWebApp", "TestCoreWebApp\TestCoreWebApp.csproj", "{DFED2411-7584-4954-B01E-D923A9E66018}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCore", "D:\moFRomServer\KAFCoreProjects\TestCore\TestCore.csproj", "{3FE99B1B-9070-46B4-B96A-141E66A3CCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFED2411-7584-4954-B01E-D923A9E66018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFED2411-7584-4954-B01E-D923A9E66018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFED2411-7584-4954-B01E-D923A9E66018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFED2411-7584-4954-B01E-D923A9E66018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE99B1B-9070-46B4-B96A-141E66A3CCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE99B1B-9070-46B4-B96A-141E66A3CCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE99B1B-9070-46B4-B96A-141E66A3CCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE99B1B-9070-46B4-B96A-141E66A3CCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD90D48-D691-4811-AD5C-4C29AEC5628F}
+	EndGlobalSection
+EndGlobal
